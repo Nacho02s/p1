@@ -1,4 +1,5 @@
-# INFORME P1 INTRO A GITHUB y 
+# INFORME P1 INTRO A GITHUB NACHO SANZ
+## En este informe explicare los principales comandos de GITHUB para un manejo mas eficiente durante la asignatura de PAT. Además en la tarea de Moodle añadire unas iamgenes que garanticen que tengo todos los programas necesarios para poder realizar la asignatura.
 
 ### GIT CLONE: A lo que procedo haciendo el git clone es a clonar un cierto archivo en mi propio repositorio. El archivo al que hacemos referencia estara en nuestro repositorio, pudiendo acceder todo aquel que quiera. Adjunto imagen:
 
@@ -25,6 +26,10 @@ Adjunto imagen:
 
 <img width="345" alt="image" src="https://github.com/Nacho02s/p1/assets/74149764/5f8e69c4-c300-4e8b-a717-b19cb3e06795">
 
+### GIT CHECKOUT: Lo que estoy realizando con este comando es cambiar las rama donde quiero trabajar. En mi caso solo tenia la branch main, por lo que me he creado una nueva rama denominada (nuevarama) y ahora hago el git checkout nuevarama para trabajar en ella. Adjunto imagen:
+<img width="350" alt="image" src="https://github.com/Nacho02s/p1/assets/74149764/805829c4-2549-4805-8e70-b8db697a762d">
+
+Como es observable ya estamos trabajando en nuevarama.
 
 
 
